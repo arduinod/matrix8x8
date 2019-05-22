@@ -1,4 +1,12 @@
 # Matrix 8*8
+
+## Pin Define
+![Matrix8x8LED](image/Matrix8x8LED.png)
+
+## Arduino Circuit
+![Arduino Circuit](image/arduino-circuit.jpg)
+
+## Demo
 ![demo](image/fxk4v-8erqu.gif)
 
 ## Thanks To
